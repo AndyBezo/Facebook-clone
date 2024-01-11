@@ -1,2 +1,3 @@
 # Facebook-clone
-this is a facebook website colne 
+this is a facebook website clone
+Author:BABA
